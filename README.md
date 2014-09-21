@@ -1,0 +1,4 @@
+HelloWorld
+==========
+
+Eclipse Plugin example
